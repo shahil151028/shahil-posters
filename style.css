@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+.heading {
+  text-transform: uppercase;
+  color:pink;
+  text-align: center;
+  font-family: "Bungee Shade", serif;
+  font-size: 3.5rem;
+  margin-bottom: 100px;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.poster1 {
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 200px;
+  color: white;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+}
+
+.motivation {
+  border: 5px solid white;
+  width: 100%;
+}
+
